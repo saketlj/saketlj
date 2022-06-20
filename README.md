@@ -6,7 +6,7 @@ Cloud Platform Development/Architecture
 
 Cloud Computing | DevOps PaaS- Cloud foundry, kubernetes | MBA
 
-*   🌍  I'm based in Pune, Maharashtra
+*   🌍  I'm based in Bengaluru, Karnataka
 *   ✉️  You can contact me at [saketjambhale@gmail.com](mailto:saketjambhale@gmail.com)
 <a href="https://www.twitter.com/saket_lj" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/saket_lj?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
